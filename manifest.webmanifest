@@ -1,0 +1,17 @@
+{
+  "name": "MentalGym · Piloto",
+  "short_name": "MentalGym",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f6f3fb",
+  "theme_color": "#48318d",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
